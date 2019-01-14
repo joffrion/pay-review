@@ -1,3 +1,3 @@
 # pay-review
 
-developing a workflow to use github go write stata code in collaboration
+developing a workflow to use github to write stata code in collaboration
